@@ -1043,6 +1043,24 @@ footer {
   }
 }
 @media screen and (min-width: 2000px) {
+  .sub-events {
+    width: 45%;
+  }
+  .sub-chakra {
+    width: 37%;
+  }
+  .sub-signup {
+    width: 46%;
+  }
+  .grid-container {
+    width: 45%;
+  }
+  .journey-details {
+    width: 50%;
+  }
+  .sub-galatic {
+    width: 37%;
+  }
   .hero-sub {
     width: 21%;
     padding: 14.5rem 4rem;
